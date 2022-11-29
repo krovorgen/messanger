@@ -1,0 +1,25 @@
+{
+  "name": "messanger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel static/index.hbs",
+    "build": "parcel build static/index.hbs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krovorgen/messanger.git"
+  },
+  "keywords": [],
+  "author": "Maksim Berezka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krovorgen/messanger/issues"
+  },
+  "homepage": "https://github.com/krovorgen/messanger#readme",
+  "devDependencies": {
+    "@anikin/parcel-transformer-handlebars": "^1.0.9",
+    "parcel": "^2.8.0"
+  }
+}
