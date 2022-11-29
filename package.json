@@ -2,7 +2,7 @@
   "name": "messanger",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "static/index.index.html",
   "scripts": {
     "dev": "parcel static/index.hbs",
     "build": "parcel build static/index.hbs"
